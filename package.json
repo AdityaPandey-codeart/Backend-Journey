@@ -1,0 +1,14 @@
+{
+  "name": "backend-journey",
+  "version": "1.0.0",
+  "description": "A Backend Journey.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Aditya Pandey",
+  "license": "ISC"
+}
